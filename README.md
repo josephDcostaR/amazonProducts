@@ -4,13 +4,13 @@ This is a web application that replicates an Amazon page and captures products b
 
 ## Technologies Used
 
--HTML
--CSS
-- JavaScript (Vanilla)
-- Node.js
--Express
-- Axios
-- JSDOM
+- **HTML**
+- **CSS**
+- **JavaScript (Vanilla)**
+- **Node.js**
+- **Express**
+- **Axios**
+- **JSDOM**
 
 ## Configuration and Execution Instructions
 
