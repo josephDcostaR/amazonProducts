@@ -1,4 +1,4 @@
-#AmazonProducts
+# AmazonProducts
 
 This is a web application that replicates an Amazon page and captures products based on a user-supplied keyword.
 
