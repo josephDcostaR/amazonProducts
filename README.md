@@ -49,3 +49,13 @@ The Code consists of three parts that are interconnected to form the result, tha
 `script.js`: The client-side script defines the startScraping() function that is called when the user clicks the "Search" button. This function makes a request to the server to fetch data based on the keyword provided by the user. The results are transformed and assembled into Html and then displayed on the page.
 
 `index.html and style.css`: HTML defines the structure of the page and CSS defines the style of the elements.
+
+## Project Dependencies
+
+{
+  "dependencies": {
+    "axios": "^1.7.2",
+    "express": "^4.19.2",
+    "jsdom": "^24.1.0"
+  }
+}
