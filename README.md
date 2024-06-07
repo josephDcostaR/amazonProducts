@@ -12,6 +12,13 @@ This is a web application that replicates an Amazon page and captures products b
 - **Axios**
 - **JSDOM**
 
+## Project Dependencies
+
+- **"axios": "^1.7.2"**
+- **"express": "^4.19.2",**
+- **"jsdom": "^24.1.0"**
+
+
 ## Configuration and Execution Instructions
 
 1. Clone the repository:
@@ -50,12 +57,4 @@ The Code consists of three parts that are interconnected to form the result, tha
 
 `index.html and style.css`: HTML defines the structure of the page and CSS defines the style of the elements.
 
-## Project Dependencies
 
-{
-  "dependencies": {
-    "axios": "^1.7.2",
-    "express": "^4.19.2",
-    "jsdom": "^24.1.0"
-  }
-}
